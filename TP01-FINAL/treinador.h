@@ -29,7 +29,7 @@ void t_imprime(Treinador *t);
 
 //GETTERS
 int t_get_treinador(Treinador *t);
-cont char* t_get_nome(Treinador *t);
+const char* t_get_nome(Treinador *t);
 Coordenada t_get_localizacao(Treinador *t);
 Pokelista* t_get_pl(Treinador *t);
 int t_get_numPokebolas(Treinador *t);

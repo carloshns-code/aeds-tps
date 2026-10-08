@@ -42,7 +42,7 @@ int pl_insere(Pokelista *pl, Pokemon p)
         return 0; // Falha na inserção devido a ponteiro nulo
     }
 
-    pl->pUltimo->prox = (Apontador)malloc(sizeof(TCelula));
+    pl->pUltimo->pProx = (Apontador)malloc(sizeof(TCelula));
 
     if (pl->pUltimo->pProx == NULL)
     {

@@ -1,6 +1,8 @@
 #ifndef CONTA_BANCARIA_H
 #define CONTA_BANCARIA_H
 
+#include "listaDeTransacoes.h"
+
 typedef struct {
     int numero_conta;
     char tipo_conta;

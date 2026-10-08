@@ -7,7 +7,7 @@ typedef struct Celula *Apontador;
 typedef struct Celula
 {
     Pokemon pokemon;
-    struct Celula *prox;
+    struct Celula *pProx;
 } TCelula;
 
 typedef struct
