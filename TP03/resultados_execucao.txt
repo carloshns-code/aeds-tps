@@ -1,0 +1,140 @@
+
+=== SelectionSort ===
+Quantidade: 5
+Comparacoes: 10
+Movimentacoes: 12
+Tempo de CPU: 0.00000 segundos
+
+=== QuickSort ===
+Quantidade: 5
+Comparacoes: 12
+Movimentacoes: 18
+Tempo de CPU: 0.00000 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_didatico.txt e saidas/quick_didatico.txt
+
+=== SelectionSort ===
+Quantidade: 0
+Comparacoes: 0
+Movimentacoes: 0
+Tempo de CPU: 0.00000 segundos
+
+=== QuickSort ===
+Quantidade: 0
+Comparacoes: 0
+Movimentacoes: 0
+Tempo de CPU: 0.00000 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_vazio.txt e saidas/quick_vazio.txt
+
+=== SelectionSort ===
+Quantidade: 1
+Comparacoes: 0
+Movimentacoes: 0
+Tempo de CPU: 0.00000 segundos
+
+=== QuickSort ===
+Quantidade: 1
+Comparacoes: 0
+Movimentacoes: 0
+Tempo de CPU: 0.00000 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_unitario.txt e saidas/quick_unitario.txt
+
+=== SelectionSort ===
+Quantidade: 4
+Comparacoes: 6
+Movimentacoes: 9
+Tempo de CPU: 0.00000 segundos
+
+=== QuickSort ===
+Quantidade: 4
+Comparacoes: 8
+Movimentacoes: 15
+Tempo de CPU: 0.00000 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_iguais.txt e saidas/quick_iguais.txt
+
+=== SelectionSort ===
+Quantidade: 4
+Comparacoes: 6
+Movimentacoes: 9
+Tempo de CPU: 0.00000 segundos
+
+=== QuickSort ===
+Quantidade: 4
+Comparacoes: 8
+Movimentacoes: 8
+Tempo de CPU: 0.00000 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_ordenado.txt e saidas/quick_ordenado.txt
+
+=== SelectionSort ===
+Quantidade: 4
+Comparacoes: 6
+Movimentacoes: 9
+Tempo de CPU: 0.00000 segundos
+
+=== QuickSort ===
+Quantidade: 4
+Comparacoes: 10
+Movimentacoes: 15
+Tempo de CPU: 0.00000 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_invertido.txt e saidas/quick_invertido.txt
+
+=== SelectionSort ===
+Quantidade: 100
+Comparacoes: 4950
+Movimentacoes: 297
+Tempo de CPU: 0.00001 segundos
+
+=== QuickSort ===
+Quantidade: 100
+Comparacoes: 940
+Movimentacoes: 617
+Tempo de CPU: 0.00001 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_100.txt e saidas/quick_100.txt
+
+=== SelectionSort ===
+Quantidade: 1000
+Comparacoes: 499500
+Movimentacoes: 2997
+Tempo de CPU: 0.00119 segundos
+
+=== QuickSort ===
+Quantidade: 1000
+Comparacoes: 13704
+Movimentacoes: 8530
+Tempo de CPU: 0.00009 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_1000.txt e saidas/quick_1000.txt
+
+=== SelectionSort ===
+Quantidade: 10000
+Comparacoes: 49995000
+Movimentacoes: 29997
+Tempo de CPU: 0.10749 segundos
+
+=== QuickSort ===
+Quantidade: 10000
+Comparacoes: 174416
+Movimentacoes: 111291
+Tempo de CPU: 0.00112 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_10000.txt e saidas/quick_10000.txt
+
+=== SelectionSort ===
+Quantidade: 50000
+Comparacoes: 1249975000
+Movimentacoes: 149997
+Tempo de CPU: 2.84214 segundos
+
+=== QuickSort ===
+Quantidade: 50000
+Comparacoes: 1042621
+Movimentacoes: 665019
+Tempo de CPU: 0.00735 segundos
+
+Ordenacao verificada. Saidas: saidas/selection_50000.txt e saidas/quick_50000.txt
